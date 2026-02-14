@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://dr-curious.vercel.app/sitemap.xml
+Disallow: /
